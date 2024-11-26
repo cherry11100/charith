@@ -1,4 +1,4 @@
-apiVersion:
+apiVersion:                                                         
 v1
 kind: Pod
 metadata:
@@ -13,4 +13,5 @@ image:
 blackicebird/2048
 ports:
 - containerPort:
-80
+80                      
+  
